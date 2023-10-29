@@ -1,0 +1,2802 @@
+{
+    "Beaufort": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/beaufort.html",
+        "Polling stations": {
+            "ps_count": 4,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 1387,
+            "el_postal_ballots": 314
+        },
+        "Ballots": {
+            "bl_in_box": 1223,
+            "bl_valid": 1107,
+            "bl_blank": 52,
+            "bl_invalid": 64,
+            "bl_postal": 305
+        },
+        "Votes": {
+            "vot_count": 7749,
+            "vot_total_cast": 7341
+        }
+    },
+    "Bech": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/bech.html",
+        "Polling stations": {
+            "ps_count": 2,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 817,
+            "el_postal_ballots": 215
+        },
+        "Ballots": {
+            "bl_in_box": 755,
+            "bl_valid": 718,
+            "bl_blank": 16,
+            "bl_invalid": 21,
+            "bl_postal": 210
+        },
+        "Votes": {
+            "vot_count": 5026,
+            "vot_total_cast": 4901
+        }
+    },
+    "Beckerich": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/beckerich.html",
+        "Polling stations": {
+            "ps_count": 5,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 1646,
+            "el_postal_ballots": 561
+        },
+        "Ballots": {
+            "bl_in_box": 1505,
+            "bl_valid": 1421,
+            "bl_blank": 44,
+            "bl_invalid": 40,
+            "bl_postal": 536
+        },
+        "Votes": {
+            "vot_count": 12789,
+            "vot_total_cast": 12365
+        }
+    },
+    "Berdorf": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/berdorf.html",
+        "Polling stations": {
+            "ps_count": 4,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 1055,
+            "el_postal_ballots": 301
+        },
+        "Ballots": {
+            "bl_in_box": 983,
+            "bl_valid": 915,
+            "bl_blank": 30,
+            "bl_invalid": 38,
+            "bl_postal": 296
+        },
+        "Votes": {
+            "vot_count": 6405,
+            "vot_total_cast": 6116
+        }
+    },
+    "Bertrange": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/bertrange.html",
+        "Polling stations": {
+            "ps_count": 7,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 3379,
+            "el_postal_ballots": 805
+        },
+        "Ballots": {
+            "bl_in_box": 2809,
+            "bl_valid": 2647,
+            "bl_blank": 65,
+            "bl_invalid": 97,
+            "bl_postal": 777
+        },
+        "Votes": {
+            "vot_count": 55587,
+            "vot_total_cast": 52148
+        }
+    },
+    "Bettembourg": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/bettembourg.html",
+        "Polling stations": {
+            "ps_count": 17,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 5592,
+            "el_postal_ballots": 1283
+        },
+        "Ballots": {
+            "bl_in_box": 4883,
+            "bl_valid": 4530,
+            "bl_blank": 165,
+            "bl_invalid": 188,
+            "bl_postal": 1244
+        },
+        "Votes": {
+            "vot_count": 104190,
+            "vot_total_cast": 98135
+        }
+    },
+    "Bettendorf": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/bettendorf.html",
+        "Polling stations": {
+            "ps_count": 4,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 1523,
+            "el_postal_ballots": 367
+        },
+        "Ballots": {
+            "bl_in_box": 1377,
+            "bl_valid": 1255,
+            "bl_blank": 62,
+            "bl_invalid": 60,
+            "bl_postal": 351
+        },
+        "Votes": {
+            "vot_count": 11295,
+            "vot_total_cast": 10783
+        }
+    },
+    "Betzdorf": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/betzdorf.html",
+        "Polling stations": {
+            "ps_count": 5,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 2169,
+            "el_postal_ballots": 603
+        },
+        "Ballots": {
+            "bl_in_box": 1907,
+            "bl_valid": 1806,
+            "bl_blank": 44,
+            "bl_invalid": 57,
+            "bl_postal": 578
+        },
+        "Votes": {
+            "vot_count": 12642,
+            "vot_total_cast": 12316
+        }
+    },
+    "Bissen": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/bissen.html",
+        "Polling stations": {
+            "ps_count": 4,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 1851,
+            "el_postal_ballots": 434
+        },
+        "Ballots": {
+            "bl_in_box": 1624,
+            "bl_valid": 1487,
+            "bl_blank": 65,
+            "bl_invalid": 72,
+            "bl_postal": 426
+        },
+        "Votes": {
+            "vot_count": 31227,
+            "vot_total_cast": 27982
+        }
+    },
+    "Biwer": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/biwer.html",
+        "Polling stations": {
+            "ps_count": 3,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 1096,
+            "el_postal_ballots": 330
+        },
+        "Ballots": {
+            "bl_in_box": 993,
+            "bl_valid": 935,
+            "bl_blank": 22,
+            "bl_invalid": 36,
+            "bl_postal": 315
+        },
+        "Votes": {
+            "vot_count": 6545,
+            "vot_total_cast": 6300
+        }
+    },
+    "Boulaide": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/boulaide.html",
+        "Polling stations": {
+            "ps_count": 3,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 866,
+            "el_postal_ballots": 224
+        },
+        "Ballots": {
+            "bl_in_box": 792,
+            "bl_valid": 740,
+            "bl_blank": 23,
+            "bl_invalid": 29,
+            "bl_postal": 219
+        },
+        "Votes": {
+            "vot_count": 6660,
+            "vot_total_cast": 6347
+        }
+    },
+    "Bourscheid": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/bourscheid.html",
+        "Polling stations": {
+            "ps_count": 2,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 934,
+            "el_postal_ballots": 222
+        },
+        "Ballots": {
+            "bl_in_box": 850,
+            "bl_valid": 800,
+            "bl_blank": 23,
+            "bl_invalid": 27,
+            "bl_postal": 200
+        },
+        "Votes": {
+            "vot_count": 7200,
+            "vot_total_cast": 6944
+        }
+    },
+    "Bous-Waldbredimus": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/bous-waldbredimus.html",
+        "Polling stations": {
+            "ps_count": 4,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 1739,
+            "el_postal_ballots": 524
+        },
+        "Ballots": {
+            "bl_in_box": 1600,
+            "bl_valid": 1511,
+            "bl_blank": 36,
+            "bl_invalid": 53,
+            "bl_postal": 507
+        },
+        "Votes": {
+            "vot_count": 10577,
+            "vot_total_cast": 10172
+        }
+    },
+    "Clervaux": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/clervaux.html",
+        "Polling stations": {
+            "ps_count": 8,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 3171,
+            "el_postal_ballots": 830
+        },
+        "Ballots": {
+            "bl_in_box": 2806,
+            "bl_valid": 2612,
+            "bl_blank": 98,
+            "bl_invalid": 96,
+            "bl_postal": 807
+        },
+        "Votes": {
+            "vot_count": 23508,
+            "vot_total_cast": 22440
+        }
+    },
+    "Colmar-Berg": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/colmar-berg.html",
+        "Polling stations": {
+            "ps_count": 3,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 1141,
+            "el_postal_ballots": 332
+        },
+        "Ballots": {
+            "bl_in_box": 1053,
+            "bl_valid": 955,
+            "bl_blank": 43,
+            "bl_invalid": 55,
+            "bl_postal": 325
+        },
+        "Votes": {
+            "vot_count": 20055,
+            "vot_total_cast": 17497
+        }
+    },
+    "Consdorf": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/consdorf.html",
+        "Polling stations": {
+            "ps_count": 3,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 1217,
+            "el_postal_ballots": 310
+        },
+        "Ballots": {
+            "bl_in_box": 1086,
+            "bl_valid": 1024,
+            "bl_blank": 21,
+            "bl_invalid": 41,
+            "bl_postal": 305
+        },
+        "Votes": {
+            "vot_count": 7168,
+            "vot_total_cast": 6925
+        }
+    },
+    "Contern": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/contern.html",
+        "Polling stations": {
+            "ps_count": 6,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 2297,
+            "el_postal_ballots": 643
+        },
+        "Ballots": {
+            "bl_in_box": 1974,
+            "bl_valid": 1881,
+            "bl_blank": 47,
+            "bl_invalid": 46,
+            "bl_postal": 612
+        },
+        "Votes": {
+            "vot_count": 39501,
+            "vot_total_cast": 36663
+        }
+    },
+    "Dalheim": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/dalheim.html",
+        "Polling stations": {
+            "ps_count": 3,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 1328,
+            "el_postal_ballots": 282
+        },
+        "Ballots": {
+            "bl_in_box": 1196,
+            "bl_valid": 1115,
+            "bl_blank": 31,
+            "bl_invalid": 50,
+            "bl_postal": 282
+        },
+        "Votes": {
+            "vot_count": 7805,
+            "vot_total_cast": 7494
+        }
+    },
+    "Diekirch": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/diekirch.html",
+        "Polling stations": {
+            "ps_count": 8,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 3538,
+            "el_postal_ballots": 866
+        },
+        "Ballots": {
+            "bl_in_box": 2961,
+            "bl_valid": 2724,
+            "bl_blank": 99,
+            "bl_invalid": 138,
+            "bl_postal": 836
+        },
+        "Votes": {
+            "vot_count": 24516,
+            "vot_total_cast": 23573
+        }
+    },
+    "Differdange": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/differdange.html",
+        "Polling stations": {
+            "ps_count": 29,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 11133,
+            "el_postal_ballots": 2113
+        },
+        "Ballots": {
+            "bl_in_box": 9678,
+            "bl_valid": 8547,
+            "bl_blank": 501,
+            "bl_invalid": 630,
+            "bl_postal": 2053
+        },
+        "Votes": {
+            "vot_count": 196581,
+            "vot_total_cast": 179796
+        }
+    },
+    "Dippach": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/dippach.html",
+        "Polling stations": {
+            "ps_count": 6,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 2413,
+            "el_postal_ballots": 627
+        },
+        "Ballots": {
+            "bl_in_box": 2154,
+            "bl_valid": 2011,
+            "bl_blank": 54,
+            "bl_invalid": 89,
+            "bl_postal": 600
+        },
+        "Votes": {
+            "vot_count": 46253,
+            "vot_total_cast": 41905
+        }
+    },
+    "Dudelange": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/dudelange.html",
+        "Polling stations": {
+            "ps_count": 29,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 10983,
+            "el_postal_ballots": 2618
+        },
+        "Ballots": {
+            "bl_in_box": 9756,
+            "bl_valid": 8923,
+            "bl_blank": 365,
+            "bl_invalid": 468,
+            "bl_postal": 2549
+        },
+        "Votes": {
+            "vot_count": 205229,
+            "vot_total_cast": 188639
+        }
+    },
+    "Echternach": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/echternach.html",
+        "Polling stations": {
+            "ps_count": 8,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 2594,
+            "el_postal_ballots": 622
+        },
+        "Ballots": {
+            "bl_in_box": 2156,
+            "bl_valid": 2009,
+            "bl_blank": 62,
+            "bl_invalid": 85,
+            "bl_postal": 592
+        },
+        "Votes": {
+            "vot_count": 14063,
+            "vot_total_cast": 13512
+        }
+    },
+    "Ell": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/ell.html",
+        "Polling stations": {
+            "ps_count": 2,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 922,
+            "el_postal_ballots": 240
+        },
+        "Ballots": {
+            "bl_in_box": 870,
+            "bl_valid": 800,
+            "bl_blank": 43,
+            "bl_invalid": 27,
+            "bl_postal": 235
+        },
+        "Votes": {
+            "vot_count": 7200,
+            "vot_total_cast": 6932
+        }
+    },
+    "Erpeldange-sur-S\u00fbre": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/erpeldange-sur-sure.html",
+        "Polling stations": {
+            "ps_count": 4,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 1477,
+            "el_postal_ballots": 424
+        },
+        "Ballots": {
+            "bl_in_box": 1300,
+            "bl_valid": 1245,
+            "bl_blank": 31,
+            "bl_invalid": 24,
+            "bl_postal": 395
+        },
+        "Votes": {
+            "vot_count": 11205,
+            "vot_total_cast": 10726
+        }
+    },
+    "Esch-sur-Alzette": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/esch-sur-alzette.html",
+        "Polling stations": {
+            "ps_count": 38,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 13159,
+            "el_postal_ballots": 2064
+        },
+        "Ballots": {
+            "bl_in_box": 11038,
+            "bl_valid": 9748,
+            "bl_blank": 521,
+            "bl_invalid": 769,
+            "bl_postal": 1977
+        },
+        "Votes": {
+            "vot_count": 224204,
+            "vot_total_cast": 204725
+        }
+    },
+    "Esch-sur-S\u00fbre": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/esch-sur-sure.html",
+        "Polling stations": {
+            "ps_count": 4,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 1702,
+            "el_postal_ballots": 560
+        },
+        "Ballots": {
+            "bl_in_box": 1557,
+            "bl_valid": 1434,
+            "bl_blank": 56,
+            "bl_invalid": 67,
+            "bl_postal": 543
+        },
+        "Votes": {
+            "vot_count": 12906,
+            "vot_total_cast": 12352
+        }
+    },
+    "Ettelbruck": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/ettelbruck.html",
+        "Polling stations": {
+            "ps_count": 9,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 4321,
+            "el_postal_ballots": 896
+        },
+        "Ballots": {
+            "bl_in_box": 3597,
+            "bl_valid": 3264,
+            "bl_blank": 138,
+            "bl_invalid": 195,
+            "bl_postal": 868
+        },
+        "Votes": {
+            "vot_count": 29376,
+            "vot_total_cast": 28341
+        }
+    },
+    "Feulen": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/feulen.html",
+        "Polling stations": {
+            "ps_count": 3,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 1369,
+            "el_postal_ballots": 400
+        },
+        "Ballots": {
+            "bl_in_box": 1279,
+            "bl_valid": 1184,
+            "bl_blank": 46,
+            "bl_invalid": 49,
+            "bl_postal": 395
+        },
+        "Votes": {
+            "vot_count": 10656,
+            "vot_total_cast": 9982
+        }
+    },
+    "Fischbach": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/fischbach.html",
+        "Polling stations": {
+            "ps_count": 2,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 679,
+            "el_postal_ballots": 184
+        },
+        "Ballots": {
+            "bl_in_box": 645,
+            "bl_valid": 603,
+            "bl_blank": 17,
+            "bl_invalid": 25,
+            "bl_postal": 176
+        },
+        "Votes": {
+            "vot_count": 12663,
+            "vot_total_cast": 11589
+        }
+    },
+    "Flaxweiler": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/flaxweiler.html",
+        "Polling stations": {
+            "ps_count": 3,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 1253,
+            "el_postal_ballots": 315
+        },
+        "Ballots": {
+            "bl_in_box": 1152,
+            "bl_valid": 1080,
+            "bl_blank": 32,
+            "bl_invalid": 40,
+            "bl_postal": 301
+        },
+        "Votes": {
+            "vot_count": 7560,
+            "vot_total_cast": 7331
+        }
+    },
+    "Frisange": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/frisange.html",
+        "Polling stations": {
+            "ps_count": 6,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 2589,
+            "el_postal_ballots": 628
+        },
+        "Ballots": {
+            "bl_in_box": 2317,
+            "bl_valid": 2185,
+            "bl_blank": 60,
+            "bl_invalid": 72,
+            "bl_postal": 608
+        },
+        "Votes": {
+            "vot_count": 50255,
+            "vot_total_cast": 47425
+        }
+    },
+    "Garnich": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/garnich.html",
+        "Polling stations": {
+            "ps_count": 3,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 1319,
+            "el_postal_ballots": 515
+        },
+        "Ballots": {
+            "bl_in_box": 1237,
+            "bl_valid": 1161,
+            "bl_blank": 42,
+            "bl_invalid": 34,
+            "bl_postal": 513
+        },
+        "Votes": {
+            "vot_count": 26703,
+            "vot_total_cast": 24520
+        }
+    },
+    "Goesdorf": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/goesdorf.html",
+        "Polling stations": {
+            "ps_count": 2,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 1041,
+            "el_postal_ballots": 286
+        },
+        "Ballots": {
+            "bl_in_box": 984,
+            "bl_valid": 899,
+            "bl_blank": 47,
+            "bl_invalid": 38,
+            "bl_postal": 282
+        },
+        "Votes": {
+            "vot_count": 8091,
+            "vot_total_cast": 7669
+        }
+    },
+    "Grevenmacher": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/grevenmacher.html",
+        "Polling stations": {
+            "ps_count": 6,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 2580,
+            "el_postal_ballots": 620
+        },
+        "Ballots": {
+            "bl_in_box": 2226,
+            "bl_valid": 2089,
+            "bl_blank": 43,
+            "bl_invalid": 94,
+            "bl_postal": 603
+        },
+        "Votes": {
+            "vot_count": 14623,
+            "vot_total_cast": 14035
+        }
+    },
+    "Grosbous-Wahl": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/groussbus-wal.html",
+        "Polling stations": {
+            "ps_count": 4,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 1387,
+            "el_postal_ballots": 445
+        },
+        "Ballots": {
+            "bl_in_box": 1291,
+            "bl_valid": 1200,
+            "bl_blank": 46,
+            "bl_invalid": 45,
+            "bl_postal": 339
+        },
+        "Votes": {
+            "vot_count": 10800,
+            "vot_total_cast": 10429
+        }
+    },
+    "Heffingen": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/heffingen.html",
+        "Polling stations": {
+            "ps_count": 2,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 825,
+            "el_postal_ballots": 203
+        },
+        "Ballots": {
+            "bl_in_box": 764,
+            "bl_valid": 711,
+            "bl_blank": 22,
+            "bl_invalid": 31,
+            "bl_postal": 202
+        },
+        "Votes": {
+            "vot_count": 14931,
+            "vot_total_cast": 13486
+        }
+    },
+    "Helperknapp": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/helperknapp.html",
+        "Polling stations": {
+            "ps_count": 6,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 2774,
+            "el_postal_ballots": 848
+        },
+        "Ballots": {
+            "bl_in_box": 2592,
+            "bl_valid": 2442,
+            "bl_blank": 69,
+            "bl_invalid": 81,
+            "bl_postal": 822
+        },
+        "Votes": {
+            "vot_count": 51282,
+            "vot_total_cast": 47281
+        }
+    },
+    "Hesperange": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/hesperange.html",
+        "Polling stations": {
+            "ps_count": 19,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 6294,
+            "el_postal_ballots": 1432
+        },
+        "Ballots": {
+            "bl_in_box": 5285,
+            "bl_valid": 4992,
+            "bl_blank": 100,
+            "bl_invalid": 193,
+            "bl_postal": 1358
+        },
+        "Votes": {
+            "vot_count": 104832,
+            "vot_total_cast": 97482
+        }
+    },
+    "Hobscheid": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/habscht.html",
+        "Polling stations": {
+            "ps_count": 6,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 2698,
+            "el_postal_ballots": 666
+        },
+        "Ballots": {
+            "bl_in_box": 2434,
+            "bl_valid": 2273,
+            "bl_blank": 74,
+            "bl_invalid": 87,
+            "bl_postal": 657
+        },
+        "Votes": {
+            "vot_count": 52279,
+            "vot_total_cast": 47883
+        }
+    },
+    "Junglinster": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/junglinster.html",
+        "Polling stations": {
+            "ps_count": 12,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 4397,
+            "el_postal_ballots": 1256
+        },
+        "Ballots": {
+            "bl_in_box": 3914,
+            "bl_valid": 3766,
+            "bl_blank": 63,
+            "bl_invalid": 85,
+            "bl_postal": 1224
+        },
+        "Votes": {
+            "vot_count": 26362,
+            "vot_total_cast": 25642
+        }
+    },
+    "K\u00e4erjeng": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/kaerjeng.html",
+        "Polling stations": {
+            "ps_count": 16,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 6290,
+            "el_postal_ballots": 1704
+        },
+        "Ballots": {
+            "bl_in_box": 5568,
+            "bl_valid": 5217,
+            "bl_blank": 184,
+            "bl_invalid": 167,
+            "bl_postal": 1664
+        },
+        "Votes": {
+            "vot_count": 119991,
+            "vot_total_cast": 111022
+        }
+    },
+    "Kayl": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/kayl.html",
+        "Polling stations": {
+            "ps_count": 10,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 5065,
+            "el_postal_ballots": 1066
+        },
+        "Ballots": {
+            "bl_in_box": 4499,
+            "bl_valid": 4063,
+            "bl_blank": 208,
+            "bl_invalid": 228,
+            "bl_postal": 1051
+        },
+        "Votes": {
+            "vot_count": 93449,
+            "vot_total_cast": 85525
+        }
+    },
+    "Kehlen": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/kehlen.html",
+        "Polling stations": {
+            "ps_count": 9,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 3472,
+            "el_postal_ballots": 809
+        },
+        "Ballots": {
+            "bl_in_box": 2910,
+            "bl_valid": 2745,
+            "bl_blank": 62,
+            "bl_invalid": 103,
+            "bl_postal": 766
+        },
+        "Votes": {
+            "vot_count": 63135,
+            "vot_total_cast": 61297
+        }
+    },
+    "Kiischpelt": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/kiischpelt.html",
+        "Polling stations": {
+            "ps_count": 2,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 697,
+            "el_postal_ballots": 140
+        },
+        "Ballots": {
+            "bl_in_box": 644,
+            "bl_valid": 596,
+            "bl_blank": 25,
+            "bl_invalid": 23,
+            "bl_postal": 138
+        },
+        "Votes": {
+            "vot_count": 5364,
+            "vot_total_cast": 5145
+        }
+    },
+    "Koerich": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/koerich.html",
+        "Polling stations": {
+            "ps_count": 3,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 1440,
+            "el_postal_ballots": 437
+        },
+        "Ballots": {
+            "bl_in_box": 1320,
+            "bl_valid": 1227,
+            "bl_blank": 45,
+            "bl_invalid": 48,
+            "bl_postal": 430
+        },
+        "Votes": {
+            "vot_count": 28221,
+            "vot_total_cast": 26120
+        }
+    },
+    "Kopstal": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/kopstal.html",
+        "Polling stations": {
+            "ps_count": 5,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 1766,
+            "el_postal_ballots": 475
+        },
+        "Ballots": {
+            "bl_in_box": 1472,
+            "bl_valid": 1393,
+            "bl_blank": 26,
+            "bl_invalid": 53,
+            "bl_postal": 456
+        },
+        "Votes": {
+            "vot_count": 32039,
+            "vot_total_cast": 30858
+        }
+    },
+    "Lac de la Haute-S\u00fbre": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/lac-de-la-haute-sure.html",
+        "Polling stations": {
+            "ps_count": 4,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 1238,
+            "el_postal_ballots": 299
+        },
+        "Ballots": {
+            "bl_in_box": 1139,
+            "bl_valid": 1066,
+            "bl_blank": 37,
+            "bl_invalid": 36,
+            "bl_postal": 292
+        },
+        "Votes": {
+            "vot_count": 9594,
+            "vot_total_cast": 9147
+        }
+    },
+    "Larochette": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/larochette.html",
+        "Polling stations": {
+            "ps_count": 2,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 838,
+            "el_postal_ballots": 182
+        },
+        "Ballots": {
+            "bl_in_box": 758,
+            "bl_valid": 688,
+            "bl_blank": 25,
+            "bl_invalid": 45,
+            "bl_postal": 175
+        },
+        "Votes": {
+            "vot_count": 14448,
+            "vot_total_cast": 12966
+        }
+    },
+    "Lenningen": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/lenningen.html",
+        "Polling stations": {
+            "ps_count": 3,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 1191,
+            "el_postal_ballots": 323
+        },
+        "Ballots": {
+            "bl_in_box": 1037,
+            "bl_valid": 982,
+            "bl_blank": 23,
+            "bl_invalid": 32,
+            "bl_postal": 310
+        },
+        "Votes": {
+            "vot_count": 6874,
+            "vot_total_cast": 6652
+        }
+    },
+    "Leudelange": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/leudelange.html",
+        "Polling stations": {
+            "ps_count": 3,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 1295,
+            "el_postal_ballots": 340
+        },
+        "Ballots": {
+            "bl_in_box": 1142,
+            "bl_valid": 1069,
+            "bl_blank": 31,
+            "bl_invalid": 42,
+            "bl_postal": 330
+        },
+        "Votes": {
+            "vot_count": 24587,
+            "vot_total_cast": 22446
+        }
+    },
+    "Lintgen": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/lintgen.html",
+        "Polling stations": {
+            "ps_count": 3,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 1631,
+            "el_postal_ballots": 494
+        },
+        "Ballots": {
+            "bl_in_box": 1496,
+            "bl_valid": 1388,
+            "bl_blank": 47,
+            "bl_invalid": 61,
+            "bl_postal": 479
+        },
+        "Votes": {
+            "vot_count": 29148,
+            "vot_total_cast": 26626
+        }
+    },
+    "Lorentzweiler": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/lorentzweiler.html",
+        "Polling stations": {
+            "ps_count": 5,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 2216,
+            "el_postal_ballots": 668
+        },
+        "Ballots": {
+            "bl_in_box": 1894,
+            "bl_valid": 1769,
+            "bl_blank": 54,
+            "bl_invalid": 71,
+            "bl_postal": 645
+        },
+        "Votes": {
+            "vot_count": 37149,
+            "vot_total_cast": 34456
+        }
+    },
+    "Luxembourg": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/luxembourg.html",
+        "Polling stations": {
+            "ps_count": 88,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 33759,
+            "el_postal_ballots": 7549
+        },
+        "Ballots": {
+            "bl_in_box": 27175,
+            "bl_valid": 25190,
+            "bl_blank": 614,
+            "bl_invalid": 1371,
+            "bl_postal": 6666
+        },
+        "Votes": {
+            "vot_count": 528990,
+            "vot_total_cast": 495225
+        }
+    },
+    "Mamer": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/mamer.html",
+        "Polling stations": {
+            "ps_count": 12,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 4301,
+            "el_postal_ballots": 1289
+        },
+        "Ballots": {
+            "bl_in_box": 3755,
+            "bl_valid": 3563,
+            "bl_blank": 71,
+            "bl_invalid": 121,
+            "bl_postal": 1242
+        },
+        "Votes": {
+            "vot_count": 81949,
+            "vot_total_cast": 76829
+        }
+    },
+    "Manternach": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/manternach.html",
+        "Polling stations": {
+            "ps_count": 3,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 1355,
+            "el_postal_ballots": 344
+        },
+        "Ballots": {
+            "bl_in_box": 1197,
+            "bl_valid": 1125,
+            "bl_blank": 31,
+            "bl_invalid": 41,
+            "bl_postal": 330
+        },
+        "Votes": {
+            "vot_count": 7875,
+            "vot_total_cast": 7601
+        }
+    },
+    "Mersch": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/mersch.html",
+        "Polling stations": {
+            "ps_count": 11,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 5161,
+            "el_postal_ballots": 1329
+        },
+        "Ballots": {
+            "bl_in_box": 4526,
+            "bl_valid": 4203,
+            "bl_blank": 121,
+            "bl_invalid": 202,
+            "bl_postal": 1297
+        },
+        "Votes": {
+            "vot_count": 88263,
+            "vot_total_cast": 80874
+        }
+    },
+    "Mertert": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/mertert.html",
+        "Polling stations": {
+            "ps_count": 6,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 2643,
+            "el_postal_ballots": 587
+        },
+        "Ballots": {
+            "bl_in_box": 2339,
+            "bl_valid": 2162,
+            "bl_blank": 73,
+            "bl_invalid": 104,
+            "bl_postal": 584
+        },
+        "Votes": {
+            "vot_count": 15134,
+            "vot_total_cast": 14520
+        }
+    },
+    "Mertzig": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/mertzig.html",
+        "Polling stations": {
+            "ps_count": 3,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 1327,
+            "el_postal_ballots": 422
+        },
+        "Ballots": {
+            "bl_in_box": 1209,
+            "bl_valid": 1103,
+            "bl_blank": 52,
+            "bl_invalid": 54,
+            "bl_postal": 411
+        },
+        "Votes": {
+            "vot_count": 9927,
+            "vot_total_cast": 9440
+        }
+    },
+    "Mondercange": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/mondercange.html",
+        "Polling stations": {
+            "ps_count": 11,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 4187,
+            "el_postal_ballots": 1032
+        },
+        "Ballots": {
+            "bl_in_box": 3717,
+            "bl_valid": 3474,
+            "bl_blank": 131,
+            "bl_invalid": 112,
+            "bl_postal": 965
+        },
+        "Votes": {
+            "vot_count": 79902,
+            "vot_total_cast": 75107
+        }
+    },
+    "Mondorf-les-Bains": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/mondorf-les-bains.html",
+        "Polling stations": {
+            "ps_count": 7,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 2646,
+            "el_postal_ballots": 490
+        },
+        "Ballots": {
+            "bl_in_box": 2188,
+            "bl_valid": 2033,
+            "bl_blank": 70,
+            "bl_invalid": 85,
+            "bl_postal": 470
+        },
+        "Votes": {
+            "vot_count": 14231,
+            "vot_total_cast": 13678
+        }
+    },
+    "Niederanven": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/niederanven.html",
+        "Polling stations": {
+            "ps_count": 8,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 3166,
+            "el_postal_ballots": 916
+        },
+        "Ballots": {
+            "bl_in_box": 2622,
+            "bl_valid": 2522,
+            "bl_blank": 28,
+            "bl_invalid": 72,
+            "bl_postal": 861
+        },
+        "Votes": {
+            "vot_count": 52962,
+            "vot_total_cast": 49941
+        }
+    },
+    "Nommern": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/nommern.html",
+        "Polling stations": {
+            "ps_count": 3,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 920,
+            "el_postal_ballots": 240
+        },
+        "Ballots": {
+            "bl_in_box": 859,
+            "bl_valid": 819,
+            "bl_blank": 18,
+            "bl_invalid": 22,
+            "bl_postal": 237
+        },
+        "Votes": {
+            "vot_count": 17199,
+            "vot_total_cast": 15896
+        }
+    },
+    "Parc Hosingen": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/parc-hosingen.html",
+        "Polling stations": {
+            "ps_count": 6,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 2362,
+            "el_postal_ballots": 554
+        },
+        "Ballots": {
+            "bl_in_box": 2190,
+            "bl_valid": 2024,
+            "bl_blank": 66,
+            "bl_invalid": 100,
+            "bl_postal": 543
+        },
+        "Votes": {
+            "vot_count": 18216,
+            "vot_total_cast": 17097
+        }
+    },
+    "P\u00e9tange": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/petange.html",
+        "Polling stations": {
+            "ps_count": 21,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 8588,
+            "el_postal_ballots": 1875
+        },
+        "Ballots": {
+            "bl_in_box": 7565,
+            "bl_valid": 6741,
+            "bl_blank": 366,
+            "bl_invalid": 458,
+            "bl_postal": 1828
+        },
+        "Votes": {
+            "vot_count": 155043,
+            "vot_total_cast": 140175
+        }
+    },
+    "Preizerdaul": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/preizerdaul.html",
+        "Polling stations": {
+            "ps_count": 3,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 1113,
+            "el_postal_ballots": 394
+        },
+        "Ballots": {
+            "bl_in_box": 1035,
+            "bl_valid": 992,
+            "bl_blank": 28,
+            "bl_invalid": 15,
+            "bl_postal": 387
+        },
+        "Votes": {
+            "vot_count": 8928,
+            "vot_total_cast": 8473
+        }
+    },
+    "Putscheid": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/putscheid.html",
+        "Polling stations": {
+            "ps_count": 2,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 678,
+            "el_postal_ballots": 178
+        },
+        "Ballots": {
+            "bl_in_box": 634,
+            "bl_valid": 588,
+            "bl_blank": 21,
+            "bl_invalid": 25,
+            "bl_postal": 176
+        },
+        "Votes": {
+            "vot_count": 5292,
+            "vot_total_cast": 5106
+        }
+    },
+    "Rambrouch": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/rambrouch.html",
+        "Polling stations": {
+            "ps_count": 8,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 2544,
+            "el_postal_ballots": 604
+        },
+        "Ballots": {
+            "bl_in_box": 2308,
+            "bl_valid": 2146,
+            "bl_blank": 60,
+            "bl_invalid": 102,
+            "bl_postal": 598
+        },
+        "Votes": {
+            "vot_count": 19314,
+            "vot_total_cast": 18439
+        }
+    },
+    "Reckange-sur-Mess": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/reckange-sur-mess.html",
+        "Polling stations": {
+            "ps_count": 4,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 1714,
+            "el_postal_ballots": 527
+        },
+        "Ballots": {
+            "bl_in_box": 1538,
+            "bl_valid": 1469,
+            "bl_blank": 39,
+            "bl_invalid": 30,
+            "bl_postal": 511
+        },
+        "Votes": {
+            "vot_count": 33787,
+            "vot_total_cast": 31103
+        }
+    },
+    "Redange/Attert": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/redange-attert.html",
+        "Polling stations": {
+            "ps_count": 4,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 1829,
+            "el_postal_ballots": 451
+        },
+        "Ballots": {
+            "bl_in_box": 1621,
+            "bl_valid": 1517,
+            "bl_blank": 51,
+            "bl_invalid": 53,
+            "bl_postal": 442
+        },
+        "Votes": {
+            "vot_count": 13653,
+            "vot_total_cast": 13273
+        }
+    },
+    "Reisdorf": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/reisdorf.html",
+        "Polling stations": {
+            "ps_count": 2,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 661,
+            "el_postal_ballots": 146
+        },
+        "Ballots": {
+            "bl_in_box": 599,
+            "bl_valid": 533,
+            "bl_blank": 28,
+            "bl_invalid": 38,
+            "bl_postal": 141
+        },
+        "Votes": {
+            "vot_count": 4797,
+            "vot_total_cast": 4657
+        }
+    },
+    "Remich": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/remich.html",
+        "Polling stations": {
+            "ps_count": 4,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 1866,
+            "el_postal_ballots": 405
+        },
+        "Ballots": {
+            "bl_in_box": 1535,
+            "bl_valid": 1446,
+            "bl_blank": 36,
+            "bl_invalid": 53,
+            "bl_postal": 387
+        },
+        "Votes": {
+            "vot_count": 10122,
+            "vot_total_cast": 9657
+        }
+    },
+    "Roeser": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/roeser.html",
+        "Polling stations": {
+            "ps_count": 8,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 3328,
+            "el_postal_ballots": 722
+        },
+        "Ballots": {
+            "bl_in_box": 2870,
+            "bl_valid": 2689,
+            "bl_blank": 78,
+            "bl_invalid": 103,
+            "bl_postal": 701
+        },
+        "Votes": {
+            "vot_count": 61847,
+            "vot_total_cast": 59218
+        }
+    },
+    "Rosport-Mompach": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/rosport-mompach.html",
+        "Polling stations": {
+            "ps_count": 7,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 2153,
+            "el_postal_ballots": 982
+        },
+        "Ballots": {
+            "bl_in_box": 2008,
+            "bl_valid": 1896,
+            "bl_blank": 47,
+            "bl_invalid": 65,
+            "bl_postal": 670
+        },
+        "Votes": {
+            "vot_count": 13272,
+            "vot_total_cast": 12757
+        }
+    },
+    "Rumelange": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/rumelange.html",
+        "Polling stations": {
+            "ps_count": 7,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 2541,
+            "el_postal_ballots": 476
+        },
+        "Ballots": {
+            "bl_in_box": 2314,
+            "bl_valid": 2056,
+            "bl_blank": 89,
+            "bl_invalid": 169,
+            "bl_postal": 464
+        },
+        "Votes": {
+            "vot_count": 47288,
+            "vot_total_cast": 42666
+        }
+    },
+    "Saeul": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/saeul.html",
+        "Polling stations": {
+            "ps_count": 1,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 550,
+            "el_postal_ballots": 134
+        },
+        "Ballots": {
+            "bl_in_box": 522,
+            "bl_valid": 504,
+            "bl_blank": 12,
+            "bl_invalid": 6,
+            "bl_postal": 133
+        },
+        "Votes": {
+            "vot_count": 4536,
+            "vot_total_cast": 4442
+        }
+    },
+    "Sandweiler": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/sandweiler.html",
+        "Polling stations": {
+            "ps_count": 4,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 1664,
+            "el_postal_ballots": 458
+        },
+        "Ballots": {
+            "bl_in_box": 1418,
+            "bl_valid": 1320,
+            "bl_blank": 28,
+            "bl_invalid": 70,
+            "bl_postal": 451
+        },
+        "Votes": {
+            "vot_count": 27720,
+            "vot_total_cast": 25776
+        }
+    },
+    "Sanem": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/sanem.html",
+        "Polling stations": {
+            "ps_count": 28,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 9499,
+            "el_postal_ballots": 2280
+        },
+        "Ballots": {
+            "bl_in_box": 8458,
+            "bl_valid": 7688,
+            "bl_blank": 339,
+            "bl_invalid": 431,
+            "bl_postal": 2218
+        },
+        "Votes": {
+            "vot_count": 176824,
+            "vot_total_cast": 162874
+        }
+    },
+    "Schengen": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/schengen.html",
+        "Polling stations": {
+            "ps_count": 10,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 2956,
+            "el_postal_ballots": 756
+        },
+        "Ballots": {
+            "bl_in_box": 2673,
+            "bl_valid": 2528,
+            "bl_blank": 65,
+            "bl_invalid": 80,
+            "bl_postal": 741
+        },
+        "Votes": {
+            "vot_count": 17696,
+            "vot_total_cast": 17079
+        }
+    },
+    "Schieren": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/schieren.html",
+        "Polling stations": {
+            "ps_count": 2,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 1127,
+            "el_postal_ballots": 314
+        },
+        "Ballots": {
+            "bl_in_box": 1044,
+            "bl_valid": 965,
+            "bl_blank": 38,
+            "bl_invalid": 41,
+            "bl_postal": 308
+        },
+        "Votes": {
+            "vot_count": 8685,
+            "vot_total_cast": 8180
+        }
+    },
+    "Schifflange": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/schifflange.html",
+        "Polling stations": {
+            "ps_count": 12,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 5550,
+            "el_postal_ballots": 1420
+        },
+        "Ballots": {
+            "bl_in_box": 4825,
+            "bl_valid": 4387,
+            "bl_blank": 204,
+            "bl_invalid": 234,
+            "bl_postal": 1393
+        },
+        "Votes": {
+            "vot_count": 100901,
+            "vot_total_cast": 92709
+        }
+    },
+    "Schuttrange": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/schuttrange.html",
+        "Polling stations": {
+            "ps_count": 5,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 1944,
+            "el_postal_ballots": 594
+        },
+        "Ballots": {
+            "bl_in_box": 1665,
+            "bl_valid": 1590,
+            "bl_blank": 19,
+            "bl_invalid": 56,
+            "bl_postal": 575
+        },
+        "Votes": {
+            "vot_count": 33390,
+            "vot_total_cast": 31539
+        }
+    },
+    "Stadtbredimus": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/stadtbredimus.html",
+        "Polling stations": {
+            "ps_count": 2,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 1128,
+            "el_postal_ballots": 296
+        },
+        "Ballots": {
+            "bl_in_box": 1003,
+            "bl_valid": 958,
+            "bl_blank": 21,
+            "bl_invalid": 24,
+            "bl_postal": 287
+        },
+        "Votes": {
+            "vot_count": 6706,
+            "vot_total_cast": 6481
+        }
+    },
+    "Steinfort": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/steinfort.html",
+        "Polling stations": {
+            "ps_count": 8,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 121,
+            "cand_men": 155,
+            "total": 276
+        },
+        "Electorate": {
+            "el_registered": 2962,
+            "el_postal_ballots": 729
+        },
+        "Ballots": {
+            "bl_in_box": 2650,
+            "bl_valid": 2485,
+            "bl_blank": 91,
+            "bl_invalid": 74,
+            "bl_postal": 723
+        },
+        "Votes": {
+            "vot_count": 57155,
+            "vot_total_cast": 53096
+        }
+    },
+    "Steinsel": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/steinsel.html",
+        "Polling stations": {
+            "ps_count": 6,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 2819,
+            "el_postal_ballots": 1053
+        },
+        "Ballots": {
+            "bl_in_box": 2462,
+            "bl_valid": 2335,
+            "bl_blank": 61,
+            "bl_invalid": 66,
+            "bl_postal": 1013
+        },
+        "Votes": {
+            "vot_count": 49035,
+            "vot_total_cast": 46052
+        }
+    },
+    "Strassen": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/strassen.html",
+        "Polling stations": {
+            "ps_count": 10,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 3423,
+            "el_postal_ballots": 813
+        },
+        "Ballots": {
+            "bl_in_box": 2870,
+            "bl_valid": 2699,
+            "bl_blank": 57,
+            "bl_invalid": 114,
+            "bl_postal": 779
+        },
+        "Votes": {
+            "vot_count": 56679,
+            "vot_total_cast": 53579
+        }
+    },
+    "Tandel": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/tandel.html",
+        "Polling stations": {
+            "ps_count": 3,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 1222,
+            "el_postal_ballots": 345
+        },
+        "Ballots": {
+            "bl_in_box": 1138,
+            "bl_valid": 1068,
+            "bl_blank": 35,
+            "bl_invalid": 35,
+            "bl_postal": 338
+        },
+        "Votes": {
+            "vot_count": 9612,
+            "vot_total_cast": 9148
+        }
+    },
+    "Troisvierges": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/troisvierges.html",
+        "Polling stations": {
+            "ps_count": 4,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 1570,
+            "el_postal_ballots": 327
+        },
+        "Ballots": {
+            "bl_in_box": 1403,
+            "bl_valid": 1289,
+            "bl_blank": 48,
+            "bl_invalid": 66,
+            "bl_postal": 322
+        },
+        "Votes": {
+            "vot_count": 11601,
+            "vot_total_cast": 10885
+        }
+    },
+    "Useldange": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/useldange.html",
+        "Polling stations": {
+            "ps_count": 3,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 1276,
+            "el_postal_ballots": 372
+        },
+        "Ballots": {
+            "bl_in_box": 1180,
+            "bl_valid": 1096,
+            "bl_blank": 34,
+            "bl_invalid": 50,
+            "bl_postal": 360
+        },
+        "Votes": {
+            "vot_count": 9864,
+            "vot_total_cast": 9454
+        }
+    },
+    "Vall\u00e9e de l'Ernz": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/vallee-de-l-ernz.html",
+        "Polling stations": {
+            "ps_count": 4,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 1379,
+            "el_postal_ballots": 313
+        },
+        "Ballots": {
+            "bl_in_box": 1277,
+            "bl_valid": 1194,
+            "bl_blank": 47,
+            "bl_invalid": 36,
+            "bl_postal": 309
+        },
+        "Votes": {
+            "vot_count": 10746,
+            "vot_total_cast": 10312
+        }
+    },
+    "Vianden": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/vianden.html",
+        "Polling stations": {
+            "ps_count": 2,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 920,
+            "el_postal_ballots": 170
+        },
+        "Ballots": {
+            "bl_in_box": 724,
+            "bl_valid": 662,
+            "bl_blank": 31,
+            "bl_invalid": 31,
+            "bl_postal": 164
+        },
+        "Votes": {
+            "vot_count": 5958,
+            "vot_total_cast": 5711
+        }
+    },
+    "Vichten": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/vichten.html",
+        "Polling stations": {
+            "ps_count": 2,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 814,
+            "el_postal_ballots": 243
+        },
+        "Ballots": {
+            "bl_in_box": 777,
+            "bl_valid": 740,
+            "bl_blank": 19,
+            "bl_invalid": 18,
+            "bl_postal": 240
+        },
+        "Votes": {
+            "vot_count": 6660,
+            "vot_total_cast": 6385
+        }
+    },
+    "Waldbillig": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/waldbillig.html",
+        "Polling stations": {
+            "ps_count": 3,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 1071,
+            "el_postal_ballots": 253
+        },
+        "Ballots": {
+            "bl_in_box": 984,
+            "bl_valid": 925,
+            "bl_blank": 26,
+            "bl_invalid": 33,
+            "bl_postal": 243
+        },
+        "Votes": {
+            "vot_count": 6475,
+            "vot_total_cast": 6325
+        }
+    },
+    "Walferdange": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/walferdange.html",
+        "Polling stations": {
+            "ps_count": 11,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 3538,
+            "el_postal_ballots": 871
+        },
+        "Ballots": {
+            "bl_in_box": 3046,
+            "bl_valid": 2866,
+            "bl_blank": 58,
+            "bl_invalid": 122,
+            "bl_postal": 838
+        },
+        "Votes": {
+            "vot_count": 60186,
+            "vot_total_cast": 56673
+        }
+    },
+    "Weiler-la-Tour": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/weiler-la-tour.html",
+        "Polling stations": {
+            "ps_count": 4,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 92,
+            "cand_men": 118,
+            "total": 210
+        },
+        "Electorate": {
+            "el_registered": 1368,
+            "el_postal_ballots": 423
+        },
+        "Ballots": {
+            "bl_in_box": 1238,
+            "bl_valid": 1160,
+            "bl_blank": 21,
+            "bl_invalid": 57,
+            "bl_postal": 408
+        },
+        "Votes": {
+            "vot_count": 24360,
+            "vot_total_cast": 22342
+        }
+    },
+    "Weiswampach": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/weiswampach.html",
+        "Polling stations": {
+            "ps_count": 3,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 1050,
+            "el_postal_ballots": 256
+        },
+        "Ballots": {
+            "bl_in_box": 953,
+            "bl_valid": 878,
+            "bl_blank": 29,
+            "bl_invalid": 46,
+            "bl_postal": 249
+        },
+        "Votes": {
+            "vot_count": 7902,
+            "vot_total_cast": 7578
+        }
+    },
+    "Wiltz": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/wiltz.html",
+        "Polling stations": {
+            "ps_count": 7,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 3282,
+            "el_postal_ballots": 700
+        },
+        "Ballots": {
+            "bl_in_box": 2814,
+            "bl_valid": 2497,
+            "bl_blank": 160,
+            "bl_invalid": 157,
+            "bl_postal": 683
+        },
+        "Votes": {
+            "vot_count": 22473,
+            "vot_total_cast": 21057
+        }
+    },
+    "Wincrange": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/wincrange.html",
+        "Polling stations": {
+            "ps_count": 7,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 2714,
+            "el_postal_ballots": 664
+        },
+        "Ballots": {
+            "bl_in_box": 2485,
+            "bl_valid": 2306,
+            "bl_blank": 85,
+            "bl_invalid": 94,
+            "bl_postal": 656
+        },
+        "Votes": {
+            "vot_count": 20754,
+            "vot_total_cast": 19660
+        }
+    },
+    "Winseler": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/winseler.html",
+        "Polling stations": {
+            "ps_count": 2,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 39,
+            "cand_men": 51,
+            "total": 90
+        },
+        "Electorate": {
+            "el_registered": 672,
+            "el_postal_ballots": 122
+        },
+        "Ballots": {
+            "bl_in_box": 617,
+            "bl_valid": 575,
+            "bl_blank": 20,
+            "bl_invalid": 22,
+            "bl_postal": 119
+        },
+        "Votes": {
+            "vot_count": 5175,
+            "vot_total_cast": 4950
+        }
+    },
+    "Wormeldange": {
+        "url": "https://elections.public.lu/en/elections-legislatives/2023/resultats/communes/wormeldange.html",
+        "Polling stations": {
+            "ps_count": 5,
+            "ps_lv_only": 0,
+            "ps_complete": 0
+        },
+        "Candidates": {
+            "cand_women": 26,
+            "cand_men": 47,
+            "total": 73
+        },
+        "Electorate": {
+            "el_registered": 1605,
+            "el_postal_ballots": 426
+        },
+        "Ballots": {
+            "bl_in_box": 1456,
+            "bl_valid": 1386,
+            "bl_blank": 38,
+            "bl_invalid": 32,
+            "bl_postal": 403
+        },
+        "Votes": {
+            "vot_count": 9702,
+            "vot_total_cast": 9277
+        }
+    }
+}
