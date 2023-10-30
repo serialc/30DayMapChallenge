@@ -9,7 +9,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 1387,
@@ -37,7 +37,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 817,
@@ -65,7 +65,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 1646,
@@ -93,7 +93,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 1055,
@@ -121,7 +121,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 3379,
@@ -149,7 +149,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 5592,
@@ -177,7 +177,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 1523,
@@ -205,7 +205,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 2169,
@@ -233,7 +233,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 1851,
@@ -261,7 +261,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 1096,
@@ -289,7 +289,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 866,
@@ -317,7 +317,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 934,
@@ -345,7 +345,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 1739,
@@ -373,7 +373,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 3171,
@@ -401,7 +401,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 1141,
@@ -429,7 +429,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 1217,
@@ -457,7 +457,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 2297,
@@ -485,7 +485,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 1328,
@@ -513,7 +513,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 3538,
@@ -541,7 +541,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 11133,
@@ -569,7 +569,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 2413,
@@ -597,7 +597,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 10983,
@@ -625,7 +625,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 2594,
@@ -653,7 +653,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 922,
@@ -681,7 +681,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 1477,
@@ -709,7 +709,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 13159,
@@ -737,7 +737,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 1702,
@@ -765,7 +765,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 4321,
@@ -793,7 +793,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 1369,
@@ -821,7 +821,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 679,
@@ -849,7 +849,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 1253,
@@ -877,7 +877,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 2589,
@@ -905,7 +905,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 1319,
@@ -933,7 +933,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 1041,
@@ -961,7 +961,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 2580,
@@ -989,7 +989,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 1387,
@@ -1017,7 +1017,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 825,
@@ -1045,7 +1045,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 2774,
@@ -1073,7 +1073,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 6294,
@@ -1101,7 +1101,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 2698,
@@ -1129,7 +1129,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 4397,
@@ -1157,7 +1157,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 6290,
@@ -1185,7 +1185,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 5065,
@@ -1213,7 +1213,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 3472,
@@ -1241,7 +1241,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 697,
@@ -1269,7 +1269,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 1440,
@@ -1297,7 +1297,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 1766,
@@ -1325,7 +1325,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 1238,
@@ -1353,7 +1353,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 838,
@@ -1381,7 +1381,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 1191,
@@ -1409,7 +1409,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 1295,
@@ -1437,7 +1437,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 1631,
@@ -1465,7 +1465,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 2216,
@@ -1493,7 +1493,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 33759,
@@ -1521,7 +1521,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 4301,
@@ -1549,7 +1549,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 1355,
@@ -1577,7 +1577,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 5161,
@@ -1605,7 +1605,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 2643,
@@ -1633,7 +1633,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 1327,
@@ -1661,7 +1661,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 4187,
@@ -1689,7 +1689,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 2646,
@@ -1717,7 +1717,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 3166,
@@ -1745,7 +1745,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 920,
@@ -1773,7 +1773,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 2362,
@@ -1801,7 +1801,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 8588,
@@ -1829,7 +1829,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 1113,
@@ -1857,7 +1857,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 678,
@@ -1885,7 +1885,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 2544,
@@ -1913,7 +1913,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 1714,
@@ -1941,7 +1941,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 1829,
@@ -1969,7 +1969,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 661,
@@ -1997,7 +1997,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 1866,
@@ -2025,7 +2025,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 3328,
@@ -2053,7 +2053,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 2153,
@@ -2081,7 +2081,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 2541,
@@ -2109,7 +2109,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 550,
@@ -2137,7 +2137,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 1664,
@@ -2165,7 +2165,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 9499,
@@ -2193,7 +2193,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 2956,
@@ -2221,7 +2221,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 1127,
@@ -2249,7 +2249,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 5550,
@@ -2277,7 +2277,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 1944,
@@ -2305,7 +2305,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 1128,
@@ -2333,7 +2333,7 @@
         "Candidates": {
             "cand_women": 121,
             "cand_men": 155,
-            "total": 276
+            "cand_total": 276
         },
         "Electorate": {
             "el_registered": 2962,
@@ -2361,7 +2361,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 2819,
@@ -2389,7 +2389,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 3423,
@@ -2417,7 +2417,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 1222,
@@ -2445,7 +2445,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 1570,
@@ -2473,7 +2473,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 1276,
@@ -2501,7 +2501,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 1379,
@@ -2529,7 +2529,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 920,
@@ -2557,7 +2557,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 814,
@@ -2585,7 +2585,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 1071,
@@ -2613,7 +2613,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 3538,
@@ -2641,7 +2641,7 @@
         "Candidates": {
             "cand_women": 92,
             "cand_men": 118,
-            "total": 210
+            "cand_total": 210
         },
         "Electorate": {
             "el_registered": 1368,
@@ -2669,7 +2669,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 1050,
@@ -2697,7 +2697,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 3282,
@@ -2725,7 +2725,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 2714,
@@ -2753,7 +2753,7 @@
         "Candidates": {
             "cand_women": 39,
             "cand_men": 51,
-            "total": 90
+            "cand_total": 90
         },
         "Electorate": {
             "el_registered": 672,
@@ -2781,7 +2781,7 @@
         "Candidates": {
             "cand_women": 26,
             "cand_men": 47,
-            "total": 73
+            "cand_total": 73
         },
         "Electorate": {
             "el_registered": 1605,
