@@ -1,4 +1,5 @@
 Data sources:
 
 Communes - https://data.public.lu/fr/datasets/limites-administratives-du-grand-duche-de-luxembourg/
-Election results - https://elections.public.lu/en/elections-communales/2023/resultats/communes.html
+Election results - elections.public.lu
+
