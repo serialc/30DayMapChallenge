@@ -1,4 +1,6 @@
-# Maps 
+# 2023 Maps 
+
+I am doing the #30DayMapChallenge with work colleagues. I will only be doing every third day.
 
 ## Day 1 - Points
 
