@@ -25,15 +25,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="1"
-     inkscape:cx="542"
-     inkscape:cy="570"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="328.09755"
+     inkscape:cy="469.5189"
      inkscape:window-width="2560"
      inkscape:window-height="1376"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showguides="true">
     <sodipodi:guide
        position="15.75,501.86839"
@@ -777,10 +777,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter2060"
-       x="-0.059727466"
-       y="-3.4618283"
-       width="1.1194549"
-       height="7.9236567">
+       x="-0.0021148774"
+       y="-0.0053060252"
+       width="1.0042298"
+       height="1.0106121">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="0.31182526"
@@ -48286,7 +48286,10 @@
      inkscape:label="Text"
      style="display:inline"
      transform="translate(2.3085937,1.1674805)"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     inkscape:export-filename="./layer2.png"
+     inkscape:export-xdpi="200"
+     inkscape:export-ydpi="200">
     <g
        id="g1468"
        inkscape:label="Bottom text"
@@ -48298,24 +48301,24 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1466);display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.33333;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1467)"><tspan
            x="796.07227"
            y="279.03795"
-           id="tspan2"><tspan
+           id="tspan26"><tspan
              style="font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed'"
-             id="tspan1">Created by  Cyrille Médard de Chardon as part of #30DayMapChallenge (Day 4 - Bad maps)&#10;</tspan></tspan><tspan
+             id="tspan25">Created by  Cyrille Médard de Chardon as part of #30DayMapChallenge (Day 4 - Bad maps)&#10;</tspan></tspan><tspan
            x="796.07227"
            y="295.96324"
-           id="tspan4"><tspan
+           id="tspan28"><tspan
              style="font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed'"
-             id="tspan3">Data sources:  UK Food Standards Agency (ratings.food.gov.uk) and © OpenStreetMap contributors&#10;</tspan></tspan><tspan
+             id="tspan27">Data sources:  UK Food Standards Agency (ratings.food.gov.uk) and © OpenStreetMap contributors&#10;</tspan></tspan><tspan
            x="796.07227"
            y="312.88853"
-           id="tspan6"><tspan
+           id="tspan30"><tspan
              style="font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed'"
-             id="tspan5">Please note that Hygiene ratings (ranging from 0-5) have large administrative components that </tspan></tspan><tspan
+             id="tspan29">Please note that Hygiene ratings (ranging from 0-5) have large administrative components that </tspan></tspan><tspan
            x="796.07227"
            y="329.81383"
-           id="tspan8"><tspan
+           id="tspan32"><tspan
              style="font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed'"
-             id="tspan7">may not be related to actual hygiene. Only restaurants with 0-2 stars are mapped here.</tspan></tspan></text>
+             id="tspan31">may not be related to actual hygiene. Only restaurants with 0-2 stars are mapped here.</tspan></tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.75,0,0,0.75,-132.53492,302.18325)"
@@ -48323,24 +48326,24 @@
          style="font-size:13.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1467);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="796.07227"
            y="279.03795"
-           id="tspan10"><tspan
+           id="tspan34"><tspan
              style="font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed'"
-             id="tspan9">Created by  Cyrille Médard de Chardon as part of #30DayMapChallenge (Day 4 - Bad maps)&#10;</tspan></tspan><tspan
+             id="tspan33">Created by  Cyrille Médard de Chardon as part of #30DayMapChallenge (Day 4 - Bad maps)&#10;</tspan></tspan><tspan
            x="796.07227"
            y="295.96324"
-           id="tspan12"><tspan
+           id="tspan36"><tspan
              style="font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed'"
-             id="tspan11">Data sources:  UK Food Standards Agency (ratings.food.gov.uk) and © OpenStreetMap contributors&#10;</tspan></tspan><tspan
+             id="tspan35">Data sources:  UK Food Standards Agency (ratings.food.gov.uk) and © OpenStreetMap contributors&#10;</tspan></tspan><tspan
            x="796.07227"
            y="312.88853"
-           id="tspan14"><tspan
+           id="tspan38"><tspan
              style="font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed'"
-             id="tspan13">Please note that Hygiene ratings (ranging from 0-5) have large administrative components that </tspan></tspan><tspan
+             id="tspan37">Please note that Hygiene ratings (ranging from 0-5) have large administrative components that </tspan></tspan><tspan
            x="796.07227"
            y="329.81383"
-           id="tspan16"><tspan
+           id="tspan40"><tspan
              style="font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed'"
-             id="tspan15">may not be related to actual hygiene. Only restaurants with 0-2 stars are mapped here.</tspan></tspan></text>
+             id="tspan39">may not be related to actual hygiene. Only restaurants with 0-2 stars are mapped here.</tspan></tspan></text>
     </g>
     <g
        id="g1469"
@@ -48359,7 +48362,7 @@
              id="tspan285"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
              x="14.212258"
-             y="33.324253">City of Londong: Coming up restaurants</tspan></text>
+             y="33.324253">City of London: Coming up restaurants</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.75,0,0,0.75,-581.50191,-160.43957)"
@@ -48367,14 +48370,14 @@
            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect286);display:inline;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.33333;stroke-dasharray:none;stroke-opacity:1"><tspan
              x="796.07227"
              y="281.44909"
-             id="tspan18"><tspan
+             id="tspan42"><tspan
                style="font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed'"
-               id="tspan17">Hungry? Looking for a restaurant? These restaurants are </tspan></tspan><tspan
+               id="tspan41">Hungry? Looking for a restaurant? These restaurants are </tspan></tspan><tspan
              x="796.07227"
              y="301.75951"
-             id="tspan20"><tspan
+             id="tspan44"><tspan
                style="font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed'"
-               id="tspan19">just as likely to come up in hygiene rating as their food!</tspan></tspan></text>
+               id="tspan43">just as likely to come up in hygiene rating as their food!</tspan></tspan></text>
       </g>
       <g
          id="g283"
@@ -48384,12 +48387,13 @@
            style="font-size:20px;line-height:1.25;font-family:sans-serif;display:inline;stroke-width:0.750001"
            x="14.212258"
            y="33.324253"
-           id="text281"><tspan
+           id="text281"
+           sodipodi:insensitive="true"><tspan
              sodipodi:role="line"
              id="tspan281"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.750001"
              x="14.212258"
-             y="33.324253">City of Londong: Coming up restaurants</tspan></text>
+             y="33.324253">City of London: Coming up restaurants</tspan></text>
         <text
            xml:space="preserve"
            transform="matrix(0.75,0,0,0.75,-581.50191,-160.43957)"
@@ -48397,14 +48401,14 @@
            style="font-size:16px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect282);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
              x="796.07227"
              y="281.44909"
-             id="tspan22"><tspan
+             id="tspan46"><tspan
                style="font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed'"
-               id="tspan21">Hungry? Looking for a restaurant? These restaurants are </tspan></tspan><tspan
+               id="tspan45">Hungry? Looking for a restaurant? These restaurants are </tspan></tspan><tspan
              x="796.07227"
              y="301.75951"
-             id="tspan24"><tspan
+             id="tspan48"><tspan
                style="font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed'"
-               id="tspan23">just as likely to come up in hygiene rating as their food!</tspan></tspan></text>
+               id="tspan47">just as likely to come up in hygiene rating as their food!</tspan></tspan></text>
       </g>
     </g>
   </g>
