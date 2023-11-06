@@ -20,3 +20,13 @@ I am doing the #30DayMapChallenge with work colleagues. I will only be doing eve
 - The 'bad' aspect is that I seem to be promoting the 'bad' restaurants, or simply showing 'bad' restaurants.
 
 ![A map of City of London showing the location of restaurants with 0-2 stars for hygiene rating](day04/col_restaurants.png)
+
+## Day 7 - Navigation
+
+- Used my GPS tracks from bus commute
+- Imported into QGIS and converted to paths
+- Set scale of the three maps in layout manager and exported
+- Added text and tweaked layout in InkScape
+
+![Three maps that look like spaghetti but are actual bus tracks over time](day07/Navigation_day7_map.png)
+
