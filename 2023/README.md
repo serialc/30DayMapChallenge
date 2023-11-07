@@ -1,6 +1,8 @@
 # 2023 Maps 
 
-I am doing the #30DayMapChallenge with work colleagues. I will only be doing every third day.
+I am doing the #30DayMapChallenge with work colleagues Geoffrey and Kerry. I will only be doing every third day.
+
+![A list of 30 maps to make for the 30DayMapChallenge](30dmc-2023.png)
 
 ## Day 1 - Points
 
