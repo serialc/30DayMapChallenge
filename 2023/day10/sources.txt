@@ -1,0 +1,12 @@
+Fire data:
+https://cwfis.cfs.nrcan.gc.ca/datamart
+
+2023 data - https://cwfis.cfs.nrcan.gc.ca/downloads/hotspots/
+
+Roads and boundary data:
+https://www.statcan.gc.ca/en/geography
+
+Methodology:
+- Simplified Canada
+- 100km hexagons
+- select only hexagons that overlap canada
