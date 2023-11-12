@@ -32,3 +32,9 @@ I am doing the #30DayMapChallenge with work colleagues Geoffrey and Kerry. I wil
 
 ![Three maps that look like spaghetti but are actual bus tracks over time](day07/Navigation_day7_map.png)
 
+## Day 10 - North America
+
+- I'm really impressed by the map by [@xcaeag](https://github.com/xcaeag/30DayMapChallenge-2023/blob/main/day9.md) and want to apply the method. This is taking a bit longer.
+- I'm mapping one fire in North America, likely the largest of 2023. It's in Northern Canada at the BC, Alberta, and Northwest Territories border.
+- I'm applying using hex, as per the day 9 map method I'm replicating (and using code from)
+

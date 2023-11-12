@@ -1,0 +1,19 @@
+Fire data:
+https://cwfis.cfs.nrcan.gc.ca/datamart
+
+Fire data for G90288/Hossitl Creek, BC Wildfire Service:
+Estimated size 541,766 ha
+https://wildfiresituation.nrs.gov.bc.ca/map
+
+Rivers and lakes: Open Government Licence - Canada
+https://maps.canada.ca/czs/index-en.html
+
+2023 data - https://cwfis.cfs.nrcan.gc.ca/downloads/hotspots/
+
+Roads and boundary data:
+https://www.statcan.gc.ca/en/geography
+
+Methodology:
+- Simplified Canada
+- 100km hexagons
+- select only hexagons that overlap canada
