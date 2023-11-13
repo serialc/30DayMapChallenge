@@ -18,7 +18,7 @@ Open the Symbology tab for the hexpoints layer's attributes.
 The menu for this is a bit finicky.
 - Change marker type to `SVG Marker`.
 - Scroll down to the input below `> Dynamic SVG parameters` and select on the far right drop-down the 'edit' option'
-- Note, the '||' operator concatenates.
+- Note, the '\|\|' operator concatenates.
 - Enter something like `'/home/cyrille/public_html/30DayMapChallenge/2023/day10/svg/forest-' || "neighbourhood" || '.svg'`
 - Where the first part is the path to the SVG, the "attribute" and then the SVG ending.
 - You will need to select one of the provided SVG by default to unlock setting the line thickness. This will only be effective on the expression linked files if the SVG contain values defined using `param()`, such as `param(fill)`, `param(outline)`, and `param(outline-width)`. See [reference](https://docs.qgis.org/3.10/en/docs/user_manual/style_library/symbol_selector.html#marker-symbols).
