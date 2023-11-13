@@ -36,5 +36,11 @@ I am doing the #30DayMapChallenge with work colleagues Geoffrey and Kerry. I wil
 
 - I'm really impressed by the map by [@xcaeag](https://github.com/xcaeag/30DayMapChallenge-2023/blob/main/day9.md) and want to apply the method. This is taking a bit longer.
 - I'm mapping one fire in North America, likely the largest of 2023. It's in Northern Canada at the BC, Alberta, and Northwest Territories border.
-- I'm applying using hex, as per the day 9 map method I'm replicating (and using code from)
+- I'm using hexagons, as per [the day 9 map method](https://github.com/xcaeag/30DayMapChallenge-2023/blob/main/day9.md) I'm replicating (and using code from).
+- I automated the generation of svg tiles - don't have time to do the art, but these can help do that.
+- For the SVG tiles, when exported from QGIS as SVG, then merged into one shape, the direction of the paths may matter. Also, QGIS duplicates each shape twice - so joining requires some separation.
+- My adapted script allows a specific hexagon size, this helps in the SVG marker settings in QGIS, as you can double the value (as my reference svg tiles have double the size of the contained hexagon).
+- This was much more complex than planned, and resulted in something that could have been done without the whole tiling to begin with. A lot was learned about the method though!
+- [More details](day10/README.md)
 
+![A map of the fire coverage of the Hossitl creek wildfire in northern canada. Map uses hexagons to show fire extent, because hexagons are the bestagons.](day10/fire_map_day10.png)
