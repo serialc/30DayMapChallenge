@@ -12,6 +12,8 @@ I am doing the #30DayMapChallenge with work colleagues Geoffrey and Kerry. I wil
 - In InkScape I added text, did formatting/layout.
 - Would have liked to take data into R and do a bit of statistical analysis to see which, if any of these rates of blank ballots are significant.
 
+- EDIT: There's an error in the last map. It's just wrong. See day 13 for more information.
+
 ![Three maps showing blank ballot counts in Luxembourg. The latter two are normalized by population and then also area](day01/Luxembourg_2023_legislative_election_blank_ballots.png)
 
 ## Day 4 - A bad map
@@ -44,3 +46,7 @@ I am doing the #30DayMapChallenge with work colleagues Geoffrey and Kerry. I wil
 - [More details](day10/README.md)
 
 ![A map of the fire coverage of the Hossitl creek wildfire in northern canada. Map uses hexagons to show fire extent, because hexagons are the bestagons.](day10/fire_map_day10.png)
+
+## Day 13 - Choropleth
+
+![](day13/.png)

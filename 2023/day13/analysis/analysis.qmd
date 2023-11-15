@@ -1,0 +1,43 @@
+---
+title: "Analysis of LLE2023"
+format: html
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+
+## Luxembourg Legislative Election 2023
+
+```{r, echo=FALSE}
+# read data, but as there is some apostrophes in names change
+# the default quote character from ' to "
+d <- read.table('../data/2023_legislative_election_results.csv', sep=',', header = TRUE, quote = "\"")
+
+# gender is by the four regions, so not interesting or relevant
+
+# NOTE
+# bl_in_box - bl_valid == bl_blank + bl_invalid
+# so, invalid is not the complement of valid
+
+# look at eligible voters versus ballots cast
+d$valid_ballots_rate <- d$bl_valid/d$bl_in_box
+d$bi_ballots_rate <- (d$bl_blank + d$bl_invalid) / d$bl_in_box
+
+hist(d$valid_ballots_rate)
+hist(d$bi_ballots_rate)
+
+
+
+library(sf)
+lc <- st_read('../data/lux_communes_2023.geojson')
+
+
+lcd <- merge(lc, d, by.x='COMMUNE', by.y='com_name')
+
+svg(filename = 'map-export.svg', width=10, height=12)
+plot(lcd['bi_ballots_rate'], lty=0, main="Blank and Invalid ballots normalized by cast ballots in commune")
+dev.off()
+svg(filename = 'figure-export.svg', width=10, height=12)
+hist(d$bi_ballots_rate, 30)
+dev.off()
+```
