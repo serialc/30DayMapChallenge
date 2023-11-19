@@ -49,4 +49,13 @@ I am doing the #30DayMapChallenge with work colleagues Geoffrey and Kerry. I wil
 
 ## Day 13 - Choropleth
 
+In process
 ![](day13/.png)
+
+## Day 16 - Oceania
+
+## Day 19 - 5 minute map
+
+- Made with QGIS, Inkscape
+
+![Map of commute to school](day19/raw_commute_edit.png)
