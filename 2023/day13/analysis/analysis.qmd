@@ -24,9 +24,18 @@ d$valid_ballots_rate <- d$bl_valid/d$bl_in_box
 d$bi_ballots_rate <- (d$bl_blank + d$bl_invalid) / d$bl_in_box
 
 hist(d$valid_ballots_rate)
-hist(d$bi_ballots_rate)
+hist(d$bi_ballots_rate,30)
 
+bisd <- sd(d$bi_ballots_rate)
+bim <- mean(d$bi_ballots_rate)
+abline(v=seq(from=bim - bisd * 2, to=bim + bisd * 2, by=bisd), lwd=2)
+abline(v=bim, lwd=2, col='blue')
 
+# 95% should be within +/-2SD, two tailed
+# so only 2.5% beyond +2SD
+dim(d)
+d$com_name[pnorm(d$bi_ballots_rate, mean=bim, sd=bisd) > 0.975]
+d$com_name[d$bi_ballots_rate > bim + 2*bisd]
 
 library(sf)
 lc <- st_read('../data/lux_communes_2023.geojson')
@@ -37,7 +46,10 @@ lcd <- merge(lc, d, by.x='COMMUNE', by.y='com_name')
 svg(filename = 'map-export.svg', width=10, height=12)
 plot(lcd['bi_ballots_rate'], lty=0, main="Blank and Invalid ballots normalized by cast ballots in commune")
 dev.off()
+
 svg(filename = 'figure-export.svg', width=10, height=12)
 hist(d$bi_ballots_rate, 30)
+abline(v=seq(from=bim - bisd * 2, to=bim + bisd * 2, by=bisd), lwd=2)
+abline(v=bim, lwd=2, col='blue')
 dev.off()
 ```

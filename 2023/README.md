@@ -49,8 +49,13 @@ I am doing the #30DayMapChallenge with work colleagues Geoffrey and Kerry. I wil
 
 ## Day 13 - Choropleth
 
-In process
-![](day13/.png)
+Blank and invalid ballots in Luxembourg's October 2023 legislative election.
+
+I wanted to do more with my Day 1 map... look at the statistics. I discovered an error in my methodology... need to fix Day 1 at some point.
+
+Benefit of using R is reproducibility. Not exactly sure what I did wrong in Day 1 with QGIS.
+
+![Map of Luxembourg communes with colours representing values. A graph in the bottom right shows that a few communes may have unexpectedly high rates of blank or invalid ballots](day13/day13_bi_ballots.png)
 
 ## Day 16 - Oceania
 
