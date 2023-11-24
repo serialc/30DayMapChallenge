@@ -27,13 +27,13 @@
      showgrid="false"
      inkscape:zoom="1.4097233"
      inkscape:cx="290.48254"
-     inkscape:cy="352.90614"
+     inkscape:cy="352.90613"
      inkscape:window-width="2560"
      inkscape:window-height="1371"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g1345"
      showguides="true">
     <sodipodi:guide
        position="181.89002,298.26866"
@@ -4400,8 +4400,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Top"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        x="0"
        y="-4.0727272e-08"
@@ -4442,19 +4441,19 @@
          style="font-size:12px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1348);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="796.07227"
            y="277.90092"
-           id="tspan3"><tspan
+           id="tspan17"><tspan
              style="font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed'"
-             id="tspan2">Created by  Cyrille Médard de Chardon as part of #30DayMapChallenge (Day 22 - North is not always up).&#10;</tspan></tspan><tspan
+             id="tspan16">Created by  Cyrille Médard de Chardon as part of #30DayMapChallenge (Day 22 - North is not always up).&#10;</tspan></tspan><tspan
            x="796.07227"
            y="292.96944"
-           id="tspan5"><tspan
+           id="tspan19"><tspan
              style="font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed'"
-             id="tspan4">Projection: Arctic Polar Stereographic (3995). Data source: Hernangómez D (2023). giscoR: Download Map </tspan></tspan><tspan
+             id="tspan18">Projection: Arctic Polar Stereographic (3995). Data source: Hernangómez D (2023). giscoR: Download Map </tspan></tspan><tspan
            x="796.07227"
            y="308.03795"
-           id="tspan7"><tspan
+           id="tspan21"><tspan
              style="font-family:'Fira Sans Compressed';-inkscape-font-specification:'Fira Sans Compressed'"
-             id="tspan6">Data from GISCO API - Eurostat. Made with R and InkScape.&#10;</tspan></tspan></text>
+             id="tspan20">Data from GISCO API - Eurostat. Made with R and InkScape.&#10;</tspan></tspan></text>
     </g>
     <g
        id="g1345"
@@ -4463,14 +4462,14 @@
       <text
          xml:space="preserve"
          style="font-size:13px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.75;stroke-opacity:1;paint-order:stroke fill markers"
-         x="49.486572"
-         y="163.5688"
+         x="40.982639"
+         y="160.73416"
          id="text891"><tspan
            sodipodi:role="line"
            id="tspan891"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13px;font-family:'Helvetica Light';-inkscape-font-specification:'Helvetica Light, ';stroke:none;stroke-width:0.75;stroke-opacity:1;paint-order:stroke fill markers"
-           x="49.486572"
-           y="163.5688">Canada</tspan></text>
+           x="40.982639"
+           y="160.73416">Canada</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:13px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.75;stroke-opacity:1"
@@ -4594,27 +4593,27 @@
        y="0"><tspan
          x="796.07227"
          y="277.90092"
-         id="tspan8">The calculated 'North' </tspan><tspan
+         id="tspan22">The calculated 'North' </tspan><tspan
          x="796.07227"
          y="292.90092"
-         id="tspan9">according to Earth's </tspan><tspan
+         id="tspan23">according to Earth's </tspan><tspan
          x="796.07227"
          y="307.90092"
-         id="tspan10">magnetic field is anything </tspan><tspan
+         id="tspan24">magnetic field is anything </tspan><tspan
          x="796.07227"
          y="322.90092"
-         id="tspan11">but North. In the last 430 </tspan><tspan
+         id="tspan25">but North. In the last 430 </tspan><tspan
          x="796.07227"
          y="337.90092"
-         id="tspan12">years it's only recently </tspan><tspan
+         id="tspan26">years it's only recently </tspan><tspan
          x="796.07227"
          y="352.90092"
-         id="tspan13">gotten close but looks to </tspan><tspan
+         id="tspan27">gotten close but looks to </tspan><tspan
          x="796.07227"
          y="367.90092"
-         id="tspan14">be speeding off towards </tspan><tspan
+         id="tspan28">be speeding off towards </tspan><tspan
          x="796.07227"
          y="382.90092"
-         id="tspan15">Russia.</tspan></text>
+         id="tspan29">Russia.</tspan></text>
   </g>
 </svg>
