@@ -64,3 +64,9 @@ Benefit of using R is reproducibility. Not exactly sure what I did wrong in Day 
 - Made with QGIS, Inkscape
 
 ![Map of commute to school](day19/raw_commute_edit.png)
+
+## Day 22 - North is not always up
+
+- Made with R, giscoR, and Inkscape.
+
+![Map showing migration of magnetic 'North' from Canada towards Russia](day22/day22map.png)
