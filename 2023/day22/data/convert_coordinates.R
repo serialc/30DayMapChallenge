@@ -42,6 +42,8 @@ wrld_proj <- st_transform(wrld, crs=use_proj)
 # only keep Northern countries
 nc <- wrld_proj[wrld_proj$CNTR_ID %in% c("CA", "US", "GL", "RU", "NO", "FI", "SJ", "SE"),]
 
+npole <- st_as_sf(data.frame(lat=c(90), long=c(0)), coords = c('long', 'lat'), crs=4326)
+npole_proj <- st_transform(npole, crs=use_proj)
 
 # empty plot using data bounds
 svg(filename = "../raw_output_legend.svg")
@@ -54,4 +56,5 @@ plot(nc$geometry, col=as.integer(as.factor(nc$CNTR_ID))+10, xlim=c(-2400000, 100
 plot(mps_proj['year'], pch=19, add=TRUE)
 subsample <- seq(from=1, to=length(mps_proj$geometry), by=10)
 text(st_coordinates(mps_proj[subsample,]), labels = mps_proj$year[subsample], pos = 3)
+plot(npole_proj$geometry, add=TRUE, pch=19)
 dev.off()
