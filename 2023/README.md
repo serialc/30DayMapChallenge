@@ -63,7 +63,7 @@ Benefit of using R is reproducibility. Not exactly sure what I did wrong in Day 
 
 Learned how to use the R package rayshader. Big install but impressive. Need a higher quality DEM next time.
 
-![Rendering of Ululu - A 2km long rock rising up in the middle of flat lands](day22/day22map.png)
+![Rendering of Ululu - A 2km long rock rising up in the middle of flat lands](day16/day16_oceania.png)
 
 ## Day 19 - 5 minute map
 
