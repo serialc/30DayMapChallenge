@@ -16,7 +16,7 @@ I am doing the #30DayMapChallenge with work colleagues Geoffrey and Kerry. I wil
 
 ![Three maps showing blank ballot counts in Luxembourg. The latter two are normalized by population and then also area - the third map is invalid due to a calculation error](day01/Luxembourg_2023_legislative_election_blank_ballots.png)
 
-![Three maps showing blank ballot counts in Luxembourg. The latter two are normalized by population and then also area. It's hard to see any clear communal difference](day01/day01.png)
+![Three maps showing blank ballot counts in Luxembourg. The latter two are normalized by population and then also area. It's hard to see any clear communal difference](day01/day01_redux.png)
 
 ## Day 4 - A bad map
 
