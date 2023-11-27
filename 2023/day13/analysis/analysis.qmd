@@ -103,15 +103,15 @@ plot(lcdp$geometry)
 plot(blpts_ballotnormgeo, add=TRUE, pch=19, cex=0.2)
 
 # Overall map
-svg('../../day01/day16_redux.svg', width = 8, heigh=4)
+svg('../../day01/day01_redux_raw.svg', width = 8, heigh=4)
 par(mar=c(0,0,0,0), mfrow=c(1,3))
-
-plot(lcdp$geometry, col='#c9baa6ff')
-plot(blpts, add=TRUE, pch=19, cex=0.1)
-plot(lcdp$geometry, col='#c9baa6ff')
-plot(blpts_ballotnorm, add=TRUE, pch=19, cex=0.1)
-plot(lcdp$geometry, col='#c9baa6ff')
-plot(blpts_ballotnormgeo, add=TRUE, pch=19, cex=0.1)
+ptcex <- 0.2
+plot(lcdp$geometry, col='#c9baa6ff', lwd=0.4)
+plot(blpts, add=TRUE, pch=19, cex=ptcex, lwd=0)
+plot(lcdp$geometry, col='#c9baa6ff', lwd=0.4)
+plot(blpts_ballotnorm, add=TRUE, pch=19, cex=ptcex, lwd=0)
+plot(lcdp$geometry, col='#c9baa6ff', lwd=0.4)
+plot(blpts_ballotnormgeo, add=TRUE, pch=19, cex=ptcex, lwd=0)
 dev.off()
 
 ```
