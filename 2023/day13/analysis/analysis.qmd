@@ -40,7 +40,6 @@ d$com_name[d$bi_ballots_rate > bim + 2*bisd]
 library(sf)
 lc <- st_read('../data/lux_communes_2023.geojson')
 
-
 lcd <- merge(lc, d, by.x='COMMUNE', by.y='com_name')
 
 svg(filename = 'map-export.svg', width=10, height=12)
@@ -52,4 +51,67 @@ hist(d$bi_ballots_rate, 30)
 abline(v=seq(from=bim - bisd * 2, to=bim + bisd * 2, by=bisd), lwd=2)
 abline(v=bim, lwd=2, col='blue')
 dev.off()
+```
+
+## Remake day 1 Figure maps
+
+```{r, echo=FALSE}
+d <- read.table('../data/2023_legislative_election_results.csv', sep=',', header = TRUE, quote = "\"")
+d$b_ballots_rate <- (d$bl_blank) / d$bl_in_box
+d$i_ballots_rate <- (d$bl_invalid) / d$bl_in_box
+d$bi_ballots_rate <- (d$bl_blank + d$bl_invalid) / d$bl_in_box
+
+library(sf)
+lc <- st_read('../data/lux_communes_2023.geojson')
+lcd <- merge(lc, d, by.x='COMMUNE', by.y='com_name')
+# project to local LUREF
+lcdp <- st_transform(lcd, crs=2169)
+
+# map ballots
+blpts <- st_sample(lcdp, size = lcd$bl_blank)
+
+plot(lcdp$geometry)
+plot(blpts, add=TRUE, pch=19, cex=0.2)
+
+# This is just a population map 
+# need to use normalized by number of ballots
+# how many ballots are blank, mean/sd?
+sd(lcdp$bl_blank)
+
+mmag <- mean(lcdp$bl_blank)/mean(lcdp$b_ballots_rate)
+blpts_ballotnorm <- st_sample(lcdp, size = lcd$b_ballots_rate * mmag)
+
+plot(lcdp$geometry)
+plot(blpts_ballotnorm, add=TRUE, pch=19, cex=0.2)
+
+# So these values are okay, visually the points are spread or condensced
+# across different areas - need to fix this
+
+# so, just for sanity, let's look at couple values
+# A: Size 1, adjusted ballot rate 100
+# B: Size 2, adjusted ballot rate 100
+# B looks much less crowded than A, however, they should look the same
+# To fix, we need to multiply the rate by size
+
+lcdp$b_ballots_rate_geo <- as.numeric(lcdp$b_ballots_rate * st_area(lcdp))
+geommag <- mean(lcdp$bl_blank)/mean(lcdp$b_ballots_rate_geo)
+
+# make the points
+blpts_ballotnormgeo <- st_sample(lcdp, size = lcdp$b_ballots_rate_geo * geommag)
+
+plot(lcdp$geometry)
+plot(blpts_ballotnormgeo, add=TRUE, pch=19, cex=0.2)
+
+# Overall map
+svg('../../day01/day16_redux.svg', width = 8, heigh=4)
+par(mar=c(0,0,0,0), mfrow=c(1,3))
+
+plot(lcdp$geometry, col='#c9baa6ff')
+plot(blpts, add=TRUE, pch=19, cex=0.1)
+plot(lcdp$geometry, col='#c9baa6ff')
+plot(blpts_ballotnorm, add=TRUE, pch=19, cex=0.1)
+plot(lcdp$geometry, col='#c9baa6ff')
+plot(blpts_ballotnormgeo, add=TRUE, pch=19, cex=0.1)
+dev.off()
+
 ```
