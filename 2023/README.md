@@ -16,6 +16,17 @@ I am doing the #30DayMapChallenge with work colleagues Geoffrey and Kerry. I wil
 
 ![Three maps showing blank ballot counts in Luxembourg. The latter two are normalized by population and then also area - the third map is invalid due to a calculation error](day01/Luxembourg_2023_legislative_election_blank_ballots.png)
 
+### Updated map
+
+There was an error in my earlier map (above).
+
+The above map was made in QGIS while the one below was created in R.
+The problem with QGIS is that I didn't track what calculations I did to create the values.
+
+In R, the code is explicit and maintained, making a review or repair much easier.  The lesson is, when possible, always do it in R if it's anything other than pure cartography.
+
+The map below shows that this is really not the best way to represent this type of data. See the [Day 13 map](#day-13---choropleth) for a better representation of similar data.
+
 ![Three maps showing blank ballot counts in Luxembourg. The latter two are normalized by population and then also area. It's hard to see any clear communal difference](day01/day01_redux.png)
 
 ## Day 4 - A bad map
