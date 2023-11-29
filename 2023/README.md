@@ -89,3 +89,34 @@ Learned how to use the R package rayshader. Big install but impressive. Need a h
 - Made with R, giscoR, and Inkscape.
 
 ![Map showing migration of magnetic 'North' from Canada towards Russia](day22/day22map.png)
+
+## Day 28 - Is this a chart or a map?
+
+### Methodology
+
+Get a DEM/DSM for an area of interst.
+
+In QGIS draw a line with rounded turns, such as through a valley.
+Use the Digitize with curve tool (Ctrl-Shift-G) for curves.
+
+![Surface elevation model of Luxembourg City with a line following the valley bottom](imgs/path_on_dsm.png)
+
+Import the scripts to the QGIS Processing Toolbox (PT) by clicking the Python icon in the PT and select "Add Script to Toolbox...".
+
+The use the script **Perpendicular Line Creator** (perpindicular_lines_creation.py) to generate a bunch of perpendicular lines at a specific interval (e.g. 10m) and length (e.g. 200.5m). The extra 0.5m is to prevent edge cases later.
+
+![Parallel lines to the earlier line](imgs/perpendicular_lines.png)
+
+Now have the DEM/DSM be sampled along the perpendicular lines and create a tab separated file. The script output needs some work but functions fine - just needs a bit of cleaning the output. I'll fix it when I have time.
+
+Use the **Raster Profile Extractor** (RSE) script (extract_profiles.py) provided.
+
+Take the data into R, clean it up, and plot it.
+
+You can also use RSE on satellite or aerial photography to sample the **colour** at the sampled locations.
+
+Here's my result, using another path than the one shown above.
+
+![A graph of sequential elevation profiles](VdL_map_graph.png)
+
+The a
