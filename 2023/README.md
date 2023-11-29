@@ -115,8 +115,7 @@ Take the data into R, clean it up, and plot it.
 
 You can also use RSE on satellite or aerial photography to sample the **colour** at the sampled locations.
 
-Here's my result, using another path than the one shown above.
+Here's my result, using another path than the one shown above (it was too crazy).
+I just took a straight line coming up the Bock.
 
 ![A graph of sequential elevation profiles](day28/VdL_map_graph.png)
-
-The above map uses a different path than the one shown in the earlier screenshots.
