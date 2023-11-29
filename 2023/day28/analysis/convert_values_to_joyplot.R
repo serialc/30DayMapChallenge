@@ -6,6 +6,7 @@ fcfull <- read.table('../data/VdL_profiles2_200.1.tsv', sep='\t', header=T)
 fcfull <- read.table('../data/VdL_profiles_300.1.tsv', sep='\t', header=T)
 fcfull <- read.table('../data/VdL_profiles3_500.1.tsv', sep='\t', header=T)
 fcfull <- read.table('../data/VdL_profiles3_dtm_500.1.tsv', sep='\t', header=T)
+fcfull <- read.table('../data/VdL_profiles_DTM.tsv', sep='\t', header=T)
 
 # summary stats of elevation (fcfull)
 perp_lines <- length(unique(fcfull$fid))
@@ -58,6 +59,7 @@ min_elev <- min(sapply(fc_cln, function(x) { min(x$value_s, na.rm=TRUE)}))
 
 # Make the plot
 
+png(filename = "outputs/VdL_dtm.png", width=1000, height=4000)
 png(filename = "outputs/VdL3_dtm.png", width=2000, height=2000)
 svg(filename = "outputs/VdL3_dtm.svg", width=10, height=10)
 #par(mar=c(2,2,1,1))
