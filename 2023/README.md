@@ -115,7 +115,15 @@ Take the data into R, clean it up, and plot it.
 
 You can also use RSE on satellite or aerial photography to sample the **colour** at the sampled locations.
 
-Here's my result, using another path than the one shown above (it was too crazy).
+I am using another path than the one shown above (it was too crazy).
 I just took a straight line coming up the Bock.
 
+![Parallel lines up Luxembourg City's Bock](day28/imgs/perpindicular_lines_2.png)
+
+Here's my result, 
+
 ![A graph of sequential elevation profiles](day28/VdL_map_graph.png)
+
+And here along a DTM, without the buildings, trees, and other structures (except bridges!).
+
+![A graph of sequential elevation profiles](day28/VdL_map_graph_DTM.png)
