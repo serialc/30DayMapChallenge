@@ -90,6 +90,12 @@ Learned how to use the R package rayshader. Big install but impressive. Need a h
 
 ![Map showing migration of magnetic 'North' from Canada towards Russia](day22/day22map.png)
 
+## Day 25 - Antarctica
+
+- Made with R/giscoR, selected area in QGIS, export as SVG, and styled in InkScape.
+
+![A monchrome (blue) map of the James Ross Island Group in Antarctica](day25/Island_map.png)
+
 ## Day 28 - Is this a chart or a map?
 
 ### Methodology
