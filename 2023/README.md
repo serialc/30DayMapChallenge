@@ -133,3 +133,7 @@ Here's my result,
 And here along a DTM, without the buildings, trees, and other structures (except bridges!).
 
 ![A graph of sequential elevation profiles](day28/VdL_map_graph_DTM.png)
+
+And here's a hybrid between the two, showing the 'ground' (terrain) in white and highest surface (e.g., buildings, trees) in dark teal.
+
+![A graph of sequential elevation profiles](day28/VdL_map_graph_hybrid.png)
