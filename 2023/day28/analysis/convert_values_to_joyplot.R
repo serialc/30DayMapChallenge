@@ -7,14 +7,12 @@ fcfull <- read.table('../data/VdL_profiles_300.1.tsv', sep='\t', header=T)
 fcfull <- read.table('../data/VdL_profiles3_500.1.tsv', sep='\t', header=T)
 fcfull <- read.table('../data/VdL_profiles3_dtm_500.1.tsv', sep='\t', header=T)
 fcfull <- read.table('../data/VdL_profiles_DTM.tsv', sep='\t', header=T)
+fcfull <- read.table('../data/VdL_snake_DEM.1.tsv', sep='\t', header=T)
 
 # summary stats of elevation (fcfull)
 perp_lines <- length(unique(fcfull$fid))
 points_per_line <- sapply(split(fcfull$fid, fcfull$fid), length)
 table(points_per_line)
-
-# set variable for use later - number of samples per line
-samples_per_line <- points_per_line[1]
 
 # Some lines have an extra data point
 # Why? Hmm, because some lines end up being a fraction longer, allowing an extra point
@@ -58,10 +56,12 @@ max_elev <- max(sapply(fc_cln, function(x) { max(x$value_s, na.rm=TRUE)}))
 min_elev <- min(sapply(fc_cln, function(x) { min(x$value_s, na.rm=TRUE)}))
 
 # Make the plot
-
+png(filename = "outputs/VdL_snake_dem.png", width=1000, height=4000)
 png(filename = "outputs/VdL_dtm.png", width=1000, height=4000)
 png(filename = "outputs/VdL3_dtm.png", width=2000, height=2000)
 svg(filename = "outputs/VdL3_dtm.svg", width=10, height=10)
+
+# margins
 #par(mar=c(2,2,1,1))
 par(mar=c(0,0,0,0), bg="black")
 #par(mar=c(0,0,0,0), bg="white")
@@ -70,7 +70,7 @@ par(mar=c(0,0,0,0), bg="black")
 water_height <- min_elev - 1 
 # vertical shift between plots
 flatenning_factor <- 5
-plot(NA, xlim=c(0,samples_per_line), ylim=c(min_elev, perp_lines * flatenning_factor + max_elev), type='n')
+plot(NA, xlim=c(0, max(fc_cln[[1]]$dist)), ylim=c(min_elev, perp_lines * flatenning_factor + max_elev), type='n')
 
 for( i in rev(1:perp_lines) ) {
   # i <- 100

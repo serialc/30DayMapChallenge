@@ -109,7 +109,7 @@ Use the Digitize with curve tool (Ctrl-Shift-G) for curves.
 
 Import the scripts to the QGIS Processing Toolbox (PT) by clicking the Python icon in the PT and select "Add Script to Toolbox...".
 
-The use the script **Perpendicular Line Creator** (perpindicular_lines_creation.py) to generate a bunch of perpendicular lines at a specific interval (e.g. 10m) and length (e.g. 200.5m). The extra 0.5m is to prevent edge cases later.
+The use the script **Perpendicular Line Creator** (perpendicular_lines_creation.py) to generate a bunch of perpendicular lines at a specific interval (e.g. 10m) and length (e.g. 200.5m). The extra 0.5m is to prevent edge cases later.
 
 ![Parallel lines to the earlier line](day28/imgs/perpendicular_lines.png)
 
@@ -121,10 +121,14 @@ Take the data into R, clean it up, and plot it.
 
 You can also use RSE on satellite or aerial photography to sample the **colour** at the sampled locations.
 
-I am using another path than the one shown above (it was too crazy).
-I just took a straight line coming up the Bock.
+Here are the alternatives possible based on whether you use a DSM, DTM, or orthophoto.
 
-![Parallel lines up Luxembourg City's Bock](day28/imgs/perpindicular_lines_2.png)
+![Four graphs of elevation lines perpendicular to a path](day28/imgs/alternatives_sm.png)
+
+You can also use a simpler path - but it's not quite the same.
+Here's a line, rather than a curve, coming up the Bock (a rock formation in Luxembourg city).
+
+![Parallel lines up Luxembourg City's Bock](day28/imgs/perpendicular_lines_2.png)
 
 Here's my result, 
 
