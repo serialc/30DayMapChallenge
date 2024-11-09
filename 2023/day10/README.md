@@ -20,7 +20,8 @@ The menu for this is a bit finicky.
 - Scroll down to the input below `> Dynamic SVG parameters` and select on the far right drop-down the 'edit' option'
 - Note, the '\|\|' operator concatenates.
 - Enter something like `'/home/cyrille/public_html/30DayMapChallenge/2023/day10/svg/forest-' || "neighbourhood" || '.svg'`
-- Where the first part is the path to the SVG, the "attribute" and then the SVG ending.
+    - Where the first part is the path to the SVG, the "attribute" and then the SVG ending.
+- Adjust the size of the marker. Set the Unit to `Meters at Scale` and then the Width/Height to an appropriate value (8000 if you use the default script). The ideal values is **double the distance** between the generated hex points.
 - You will need to select one of the provided SVG by default to unlock setting the line thickness. This will only be effective on the expression linked files if the SVG contain values defined using `param()`, such as `param(fill)`, `param(outline)`, and `param(outline-width)`. See [reference](https://docs.qgis.org/3.10/en/docs/user_manual/style_library/symbol_selector.html#marker-symbols).
 
 It's possible to take this a bit further, having multiple tile pictures per attribute.
