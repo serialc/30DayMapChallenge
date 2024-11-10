@@ -17,3 +17,5 @@ Printed to white paper.
 I traced the outlines. I should have generalized the features and removed very small buildings in QGIS.
 
 Added watercolours. Should have started with a light wash over large spaces and then done detail.
+
+This map was influenced by the [Braun&Hogenberg Trier 1572](https://en.wikipedia.org/wiki/File:Braun%26Hogenberg_Trier_1572.jpg).
